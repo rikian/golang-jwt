@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-var email = "rikianfaisal@gmail.com"
+var email = "yahoo@gmail.com"
 var password = "r4h4514..."
 var testToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJpa2lhbmZhaXNhbEBnbWFpbC5jb20iLCJleHAiOjE2NTMzMzU2NzYsInBhc3N3b3JkIjoicjRoNDUxNC4uLiJ9.37GFs1iU_iVhpowikI3MmxbEHE7_4lWpSX7awM-97OM"
 
